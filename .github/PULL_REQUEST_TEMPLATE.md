@@ -24,7 +24,8 @@ Closes #
 <!--- see how your change affects other areas of the code, etc. -->
 
 ## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+<!--- What types of changes does your code introduce? -->
+<!--- Put an `x` in all the boxes that apply so that it looks like [x] -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
@@ -33,10 +34,10 @@ Closes #
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] I have tested this change with a run of GEOSgcm (if non-trivial)
-<!--- This checkbox is for required labels -->
+<!--- For the required labels: -->
 <!---   0 diff trivial: this change is to documentation or obviously does not affect the results -->
 <!---   0 diff structural: this change only moves code around -->
 <!---   0 diff: this change is to code and has no impact on the results -->
 <!---   non 0-diff: this change affects the results -->
+- [ ] I have tested this change with a run of GEOSgcm (if non-trivial)
 - [ ] I have added one of the required labels (0 diff, 0 diff trivial, 0 diff structural, non 0-diff)
